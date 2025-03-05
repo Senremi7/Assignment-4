@@ -1,0 +1,16 @@
+#logo img{
+    width: 80px;
+}
+@media(min-width: 1200px){
+    .container{
+        max-width: 970px;
+    }
+}
+.clients img{
+    width: 100px;
+    height: 100px;
+}
+.sosmed{
+    width: 30px;
+    height: 30px;
+}
